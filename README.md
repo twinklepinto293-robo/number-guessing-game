@@ -18,7 +18,7 @@ This is a beginner Python project where the user tries to guess a randomly gener
 # How to run
 1. Download the project
 2. Run the Python file:
-   python number_guessing_game.py
+   python number-guessing_game.py
 
 # Future Improvements
 * Difficulty levels
